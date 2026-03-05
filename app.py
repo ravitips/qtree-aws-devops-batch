@@ -5,3 +5,7 @@ print(a+b)
 c=4
 d=3
 print(c-d)
+
+e=4
+f=5
+print(e*f)
