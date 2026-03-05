@@ -9,3 +9,7 @@ print(c-d)
 e=4
 f=5
 print(e*f)
+
+d=25
+f=5
+print(d/f)
