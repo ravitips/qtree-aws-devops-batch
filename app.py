@@ -13,3 +13,5 @@ print(e*f)
 d=25
 f=5
 print(d/f)
+
+print("end of code")
