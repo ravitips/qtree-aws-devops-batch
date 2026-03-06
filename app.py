@@ -23,4 +23,7 @@ print(a^3)
 a=56
 print(a^4)
 
+a=67
+print(a^5)
+
 print("end of code")
