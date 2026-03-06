@@ -20,4 +20,7 @@ print(e^2)
 a=45
 print(a^3)
 
+a=56
+print(a^4)
+
 print("end of code")
