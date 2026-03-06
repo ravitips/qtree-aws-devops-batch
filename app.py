@@ -29,4 +29,7 @@ print(a^5)
 a=90
 print(a^6)
 
+a=78
+print(a^7)
+
 print("end of code")
