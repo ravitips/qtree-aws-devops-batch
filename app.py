@@ -17,4 +17,7 @@ print(d/f)
 e=24
 print(e^2)
 
+a=45
+print(a^3)
+
 print("end of code")
