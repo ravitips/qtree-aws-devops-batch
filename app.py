@@ -32,7 +32,7 @@ print(a^6)
 a=78
 print(a^7)
 
-a=63
-print(a^9)
+a=98
+print(a^8)
 
 print("end of code")
