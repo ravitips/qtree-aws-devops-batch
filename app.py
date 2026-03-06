@@ -26,4 +26,7 @@ print(a^4)
 a=67
 print(a^5)
 
+a=90
+print(a^6)
+
 print("end of code")
