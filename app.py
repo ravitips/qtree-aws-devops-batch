@@ -14,6 +14,7 @@ d=25
 f=5
 print(d/f)
 
+
 e=24
 print(e^2)
 
@@ -23,4 +24,4 @@ print(a^3)
 a=56
 print(a^4)
 
-print("end of code")
+print("end of code - edited")
